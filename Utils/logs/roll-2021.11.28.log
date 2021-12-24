@@ -1,0 +1,20 @@
+03:07:34.632 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:09:26.523 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:10:04.535 ERROR Unhandled promise rejection: version is not defined. 
+03:13:12.540 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:13:22.804 ERROR Unhandled promise rejection: version is not defined. 
+03:15:21.540 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:18:06.933 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:21:06.641 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:22:49.509 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'cache'). 
+03:28:03.939 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:28:16.715 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'cache'). 
+03:29:23.819 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:29:24.712 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'size'). 
+03:30:07.340 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+03:36:39.847 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+05:40:08.269 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'send'). 
+12:32:20.166 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'send'). 
+12:32:34.274 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'send'). 
+14:13:39.038 ERROR Unhandled promise rejection: bad auth : Authentication failed.. 
+

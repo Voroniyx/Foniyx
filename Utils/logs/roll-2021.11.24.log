@@ -1,0 +1,7 @@
+13:46:55.753 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].image.url: Scheme "§{message.author.avatar}" is not supported. Scheme must be one of ('http', 'https').. 
+13:50:24.228 ERROR Unhandled promise rejection: member is not defined. 
+13:53:04.097 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'first'). 
+13:56:58.929 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'first'). 
+13:57:53.099 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'first'). 
+13:58:15.187 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'first'). 

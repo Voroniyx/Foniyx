@@ -1,0 +1,44 @@
+11:10:58.241 ERROR Unhandled promise rejection: MessageEmbed description must be a string.. 
+11:11:46.470 ERROR Unhandled promise rejection: MessageEmbed description must be a string.. 
+11:13:14.811 ERROR Unhandled promise rejection: "" is not a function. 
+11:14:48.130 ERROR Unhandled promise rejection: "" is not a function. 
+11:15:07.845 ERROR Unhandled promise rejection: "" is not a function. 
+11:15:33.181 ERROR Unhandled promise rejection: MessageEmbed footer text must be a string.. 
+11:17:11.685 ERROR Unhandled promise rejection: "" is not a function. 
+11:19:16.701 ERROR Unhandled promise rejection: "" is not a function. 
+11:25:13.325 ERROR Unhandled promise rejection: interaction is not defined. 
+11:26:44.872 ERROR Unhandled promise rejection: interaction is not defined. 
+11:27:15.896 ERROR Unhandled promise rejection: interaction is not defined. 
+11:45:42.736 ERROR Unhandled promise rejection: interaction is not defined. 
+11:46:16.627 ERROR Unhandled promise rejection: channel.createMessageComponentCollector is not a function. 
+11:47:10.344 ERROR Unhandled promise rejection: channel is not defined. 
+12:21:23.574 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[0].name: This field is required
+embeds[0].fields[1].name: This field is required
+embeds[0].fields[2].name: This field is required. 
+12:23:21.742 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[0].value: This field is required
+embeds[0].fields[1].value: This field is required
+embeds[0].fields[2].value: This field is required. 
+12:26:40.280 ERROR Unhandled promise rejection: Invalid Form Body
+embeds[0].fields[5].value: This field is required
+embeds[0].fields[6].value: This field is required. 
+12:43:27.011 ERROR Unhandled promise rejection: message.member.hasPermission is not a function. 
+12:44:26.654 ERROR Unhandled promise rejection: message.author.hasPermission is not a function. 
+12:45:35.147 ERROR Unhandled promise rejection: Discord is not defined. 
+12:46:08.932 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'status'). 
+12:46:41.661 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+12:47:09.095 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+12:47:56.400 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+12:49:08.657 ERROR Unhandled promise rejection: Cannot read properties of undefined (reading 'MessageEmbed'). 
+12:49:22.003 ERROR Unhandled promise rejection: MessageEmbed field values must be non-empty strings.. 
+13:45:47.046 ERROR Unhandled promise rejection: Invalid Form Body
+components[0].components[0].options[0].emoji.name: Invalid emoji
+components[0].components[0].options[1].emoji.name: Invalid emoji
+components[0].components[0].options[2].emoji.name: Invalid emoji
+components[0].components[0].options[3].emoji.name: Invalid emoji. 
+13:47:51.791 ERROR Unhandled promise rejection: Invalid Form Body
+components[0].components[0].options[0].emoji.name: Invalid emoji
+components[0].components[0].options[1].emoji.name: Invalid emoji
+components[0].components[0].options[2].emoji.name: Invalid emoji
+components[0].components[0].options[3].emoji.name: Invalid emoji. 

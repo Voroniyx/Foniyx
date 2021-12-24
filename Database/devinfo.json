@@ -1,0 +1,36 @@
+{
+    "developer": {
+        "leader": {
+            "name": "Voroniyx#4444",
+            "id": "863453422632173568",
+            "role": "<:serverowner:918191082469228545><:developersofDiscord:918191082334994453> Owner"
+        },
+        "dev": {
+            "name": "Poenix#9647",
+            "id": "913720972828352564s",
+            "role": "<:hunter:918191082729275444><:developersofDiscord:918191082334994453> Developer",
+            "test": ""
+        }
+      },
+    "bughunter": {
+        "firstbughunter": {
+            "name": "</Drijon>#7577",
+            "id": "778557320123777026",
+            "role": "<:hunter:918191082729275444> Bug Hunter"
+        },
+        "secondbughunter": {
+            "name": "none",
+            "id": "undefinded",
+            "role": "bughunter"
+        }
+    },
+    "emojis": {
+        "Zahnrad": "<:Discord_settings:918191082993512518>",
+        "Eigentümer":"<:serverowner:918191082469228545>",
+        "dev":"<:developersofDiscord:918191082334994453>",
+        "hunter": "<:hunter:918191082729275444>",
+        "staff": "<:discordstaff:918191082611814401>",
+        "worker": "<:worker:918191082876067842>"
+        }
+
+}

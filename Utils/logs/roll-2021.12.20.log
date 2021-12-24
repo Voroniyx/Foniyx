@@ -1,0 +1,12 @@
+21:01:55.307 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:01:59.423 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.135.232:443 
+21:08:11.777 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:08:15.915 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.136.232:443 
+21:09:02.318 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:09:06.427 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.136.232:443 
+21:10:11.825 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:10:15.939 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.136.232:443 
+21:13:03.276 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:13:07.414 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.137.232:443 
+21:16:29.112 ERROR Unhandled promise rejection: querySrv ENOTFOUND _mongodb._tcp.cluster0.8l5ft.mongodb.net. 
+21:16:33.236 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: connect ECONNREFUSED 162.159.137.232:443 
