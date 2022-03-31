@@ -29,9 +29,9 @@ module.exports = {
             }
 
             let ccate = [];
-            readdirSync("./commands/").forEach((dir) => {
+            readdirSync("./commands/activity/").forEach((dir) => {
                 if (ignored.includes(dir.toLowerCase())) return;
-                const commands = readdirSync(`./commands/${dir}/`).filter((file) =>
+                const commands = readdirSync(`./commands/activity/${dir}/`).filter((file) =>
                     file.endsWith(".js")
                 );
 
